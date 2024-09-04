@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- I am also good in SQL, MongoDB and Oracle.
 
 <!---
 krishnakant3/krishnakant3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
